@@ -48,4 +48,4 @@ I’m excited to share my work and learn from the developer community.
 - Include linux Folder (Directory) in this Project , I have deleted this because of some privacy issues.
 
 
-[!image_alt](https://github.com/Ali-Hamza-007/AI-Voice-Assistant/blob/d2282956df443093c433a39ca788a52c1245e22b/screenshot.jpeg)
+![image_alt](https://github.com/Ali-Hamza-007/AI-Voice-Assistant/blob/d2282956df443093c433a39ca788a52c1245e22b/screenshot.jpeg)
