@@ -45,4 +45,4 @@ I’m excited to share my work and learn from the developer community.
 - Install the Dependencies of Latest Updated Versions from pub.dev
 - If there is any Issue in Gemini Related Functions ( geminiSourceFunction.dart ) follow the Gemini API Doc Reference and Make Changes Respectively.
 - Gemini Free API key is limited i.e not Provide the Facility of Image Generation. However, Paid API keys are helpful.
-- Include windows Folder in this Project , I have deleted this because of some privacy issues.
+- Include linux Folder (Directory) in this Project , I have deleted this because of some privacy issues.
