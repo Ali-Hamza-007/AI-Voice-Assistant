@@ -46,3 +46,6 @@ I’m excited to share my work and learn from the developer community.
 - If there is any Issue in Gemini Related Functions ( geminiSourceFunction.dart ) follow the Gemini API Doc Reference and Make Changes Respectively.
 - Gemini Free API key is limited i.e not Provide the Facility of Image Generation. However, Paid API keys are helpful.
 - Include linux Folder (Directory) in this Project , I have deleted this because of some privacy issues.
+
+
+[!image_alt](https://github.com/Ali-Hamza-007/AI-Voice-Assistant/blob/d2282956df443093c433a39ca788a52c1245e22b/screenshot.jpeg)
